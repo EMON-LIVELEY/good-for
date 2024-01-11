@@ -1,11 +1,3 @@
-########py_file#######
-def sexy():
-    session=requests.session() 
-    bot_token ='6736222733:AAH6DmeL_-YKdRR9uzOsTXgDMw4UEJB8UmU' 
-    chat_id ='5983799360'
-    #-----------( /sdcard
-    try:
-
 #RESERVED BY SYEDZADA
 # FILTER AND REMOVED SOME PART THAT U WAS NOT ABLE TO USE IT
 #ORIGINAL CREDIT TO SYED ZADA♥
